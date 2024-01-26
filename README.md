@@ -22,4 +22,4 @@
 
 
 
-![snake gif](https://github.com/ibrahim4851/ibrahim4851/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ibrahim4851/ibrahim4851/blob/output/github-contribution-grid-snake.svg)
