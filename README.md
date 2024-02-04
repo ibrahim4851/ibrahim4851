@@ -3,6 +3,7 @@
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=30DC72&center=true&vCenter=true&width=800&height=100&lines=I'm+an+Android+Developer;I'm+a+Backend+Developer;I'm+a+Problem+Solver" alt="Headline" />
 </div>
+
 - 🔭 I’m currently working on [MyRecipes](https://github.com/ibrahim4851/MyRecipes)
 
 - 🌱 I’m currently learning **Jetpack Compose**
