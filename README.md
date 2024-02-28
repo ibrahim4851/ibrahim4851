@@ -26,7 +26,9 @@
 
 ### Recipy
 
-Recipe book app developed with room, coroutines, Jetpack Compose and Material3 components
+Recipe book app developed with room, coroutines, Jetpack Compose, and Material3 components
+
+It's about to be released in the Google Play Store soon!
 
 ![App Photo](https://raw.githubusercontent.com/ibrahim4851/MyRecipes/main/photos/githubshowcase.jpg)
 
